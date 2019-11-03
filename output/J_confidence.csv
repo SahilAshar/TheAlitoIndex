@@ -1,0 +1,9 @@
+filename,face_id,confidence
+congress/J/kagan.jpg,9e381c42-849c-4392-ab9c-1f4426459567,0.20812
+congress/J/thomas.jpg,79ba01e4-0d2b-44fe-a36b-6861b863e01d,0.20301
+congress/J/gorsuch.jpg,5996f7be-d8f2-4b40-b0a2-409e68ae3de2,0.12226
+congress/J/roberts.jpg,a097b1e7-e544-4f35-8bda-e62bb94d1678,0.21015
+congress/J/kavanaugh.jpg,a98b4381-c6e0-4964-8e32-35b7a1b3c9f9,0.17877
+congress/J/ginsburg.jpg,35be36b5-ee2a-4a66-97a4-7c856cc8d94f,0.15097
+congress/J/breyer.jpg,30193967-e80e-4429-a5ed-95d075f85a75,0.2341
+congress/J/sotomayor.jpg,df0027a4-b326-4dbc-b37a-7562cf8259d8,0.15479

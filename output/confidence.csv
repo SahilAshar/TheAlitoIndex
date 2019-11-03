@@ -1,0 +1,5 @@
+filename,face_id,confidence
+Test/test_Bernie_Sanders.jpg,bb9bf160-63f8-48a0-8f04-42ff5679f3f7,0.29461
+Test/test_neil-gorsuch-ap_17032073419071.jpg,0f58409e-d553-426a-a2c7-323b8fa4004e,0.15917
+Test/test_AOC.jpg,138639c0-2bfb-4421-8088-73941c7a51aa,0.2209
+Test/test_alito.jpg,a40f646a-0f53-41d3-a689-c7fffe013ae7,0.65536
